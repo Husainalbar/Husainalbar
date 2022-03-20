@@ -1,7 +1,6 @@
 <div align="center">
-  <h2 align="center">💻👊🏻 Hey! Welcome to @Husainalbar's Profile 👊🏻💻</h2>
-  <hr>
+  <h1 align="center">💻👊🏻 Hey! Welcome to @Husainalbar's Profile 👊🏻💻</h1>
     <img src="/welcome-image-2.jpg">
-  </a>
+  <hr>
 </div>
-<hr>
+
